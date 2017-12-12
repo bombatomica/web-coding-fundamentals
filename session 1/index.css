@@ -1,0 +1,22 @@
+body, html {
+	height: 100%;
+}
+
+h1 {
+	color: MediumVioletRed;
+}
+
+h2 {
+	color: MediumTurquoise;
+}
+
+#soup_link {
+	height: 50%;
+	float: left;	
+}
+
+#salad_link {
+	height: 50%;
+	float: left;
+	padding-left: 20px;
+}

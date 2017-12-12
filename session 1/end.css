@@ -1,0 +1,47 @@
+body, html {
+	height: 100%;
+	background: black;
+}
+
+h1 {
+	color: MediumTurquoise;
+    font-size: 500%;
+    text-align: center; 
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+
+#home_button {
+
+	background-color: White; 
+	font-weight: bold;
+	font-size: 200%;
+	width: 5%;
+	border-style: solid groove;
+    border-width: 5px;
+	border-color: Purple;
+}
+
+#recipe_title {
+
+	color: White; 
+	font-weight: bold;
+	font-size: 250%;
+}
+
+#ingredients {
+
+	color: White;
+	font-weight: bold;
+	font-size: 250%;
+}
+
+#ingredient_list {
+
+	color: White;
+	font-size: 175%;
+}
