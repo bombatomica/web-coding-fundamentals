@@ -1,0 +1,37 @@
+html {
+	height: 100%;
+	width: 100%;
+	background-color: darkblue;
+	vertical-align: middle;
+}
+
+body {
+	height: 100%;
+	width: 75%;
+	background-color: lightblue;
+	/*align the body to the center*/
+	margin: auto;
+	padding: 10px;
+
+}
+
+h3 {
+	text-align: center;
+}
+
+.story {
+	color: hotpink;
+}
+
+.quotations{
+	border: 2px inset;
+	margin-left: 20%;
+	margin-right: 20%;
+	padding: 10px;
+	background-color: #DBFF99;
+	color: #0A7AF5;
+}
+
+.centeredImage {
+	text-align: center;
+}
