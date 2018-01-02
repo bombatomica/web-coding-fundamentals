@@ -92,3 +92,7 @@ body {
   .artClass {
     font-size: 12px;
   }
+
+  .label {
+    font: italic bold 20px/30px Georgia, serif;
+  }
